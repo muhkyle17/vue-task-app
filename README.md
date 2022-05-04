@@ -1,4 +1,5 @@
 # Vue Task App
+From the tutorial: https://www.youtube.com/watch?v=qZXt1Aom3Cs
 
 ## Project setup
 ```
